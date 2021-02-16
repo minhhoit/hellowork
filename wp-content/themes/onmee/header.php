@@ -1,12 +1,12 @@
 <?php
 /**
- * Header file for the Twenty Twenty WordPress default theme.
+ * Header file for the Onmee Onmee WordPress default theme.
  *
  * @link https://developer.wordpress.org/themes/basics/template-files/#template-partials
  *
  * @package WordPress
  * @subpackage Onmee
- * @since Twenty Twenty 1.0
+ * @since Onmee Onmee 1.0
  */
 
 ?><!DOCTYPE html>

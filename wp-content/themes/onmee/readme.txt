@@ -1,4 +1,4 @@
-=== Twenty Twenty ===
+=== Onmee Onmee ===
 Contributors: the WordPress team
 Tested up to: 5.6
 Stable tag: 1.6
@@ -25,32 +25,32 @@ you pick, ensuring a high, accessible color contrast for your visitors.
 = 1.6 =
 * Released: December 8, 2020
 
-https://wordpress.org/support/article/twenty-twenty-changelog/#Version_1.6
+https://wordpress.org/support/article/Onmee-Onmee-changelog/#Version_1.6
 
 = 1.5 =
 * Released: August 11, 2020
 
-https://wordpress.org/support/article/twenty-twenty-changelog/#Version_1.5
+https://wordpress.org/support/article/Onmee-Onmee-changelog/#Version_1.5
 
 = 1.4 =
 * Released: June 10, 2020
 
-https://wordpress.org/support/article/twenty-twenty-changelog/#Version_1.4
+https://wordpress.org/support/article/Onmee-Onmee-changelog/#Version_1.4
 
 = 1.3 =
 * Released: May 14, 2020
 
-https://wordpress.org/support/article/twenty-twenty-changelog/#Version_1.3
+https://wordpress.org/support/article/Onmee-Onmee-changelog/#Version_1.3
 
 = 1.2 =
 * Released: March 31, 2020
 
-https://wordpress.org/support/article/twenty-twenty-changelog/#Version_1.2
+https://wordpress.org/support/article/Onmee-Onmee-changelog/#Version_1.2
 
 = 1.1 =
 * Released: December 12, 2019
 
-https://wordpress.org/support/article/twenty-twenty-changelog/#Version_1.1
+https://wordpress.org/support/article/Onmee-Onmee-changelog/#Version_1.1
 
 = 1.0 =
 * Released: November 12, 2019
@@ -59,8 +59,8 @@ Initial release
 
 == Copyright ==
 
-Twenty Twenty WordPress Theme, Copyright 2019-2020 WordPress.org
-Twenty Twenty is distributed under the terms of the GNU GPL.
+Onmee Onmee WordPress Theme, Copyright 2019-2020 WordPress.org
+Onmee Onmee is distributed under the terms of the GNU GPL.
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
@@ -72,10 +72,10 @@ but WITHOUT ANY WARRANTY; without even the implied warranty of
 MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
 GNU General Public License for more details.
 
-Twenty Twenty is derived from the Chaplin Theme, Copyright 2019 Anders Norén
+Onmee Onmee is derived from the Chaplin Theme, Copyright 2019 Anders Norén
 Chaplin Theme is distributed under the terms of the GNU GPL version 2.0
 
-Twenty Twenty bundles the following third-party resources:
+Onmee Onmee bundles the following third-party resources:
 
 Illustrations by Tammie Lister
 License: Creative Commons Zero (CC0), https://creativecommons.org/publicdomain/zero/1.0/
@@ -85,7 +85,7 @@ Copyright (c) 2016-2019 The Inter Project Authors (me@rsms.me)
 License: SIL Open Font License, 1.1, https://opensource.org/licenses/OFL-1.1
 Source: https://rsms.me/inter/
 
-Bespoke Icons Created For Twenty Twenty
+Bespoke Icons Created For Onmee Onmee
 License: Creative Commons Zero (CC0), https://creativecommons.org/publicdomain/zero/1.0/
 List of bespoke icons:
 - Search icon
@@ -107,20 +107,20 @@ License: GNU General Public License v2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 Source: WordPress Social Link Block (See wp-includes\blocks\social-link.php)
 
-Code from Twenty Nineteen
+Code from Onmee Nineteen
 Copyright (c) 2018-2020 WordPress.org
 License: GPLv2
-Source: https://wordpress.org/themes/twentynineteen/
+Source: https://wordpress.org/themes/Onmeenineteen/
 Included as part of the following classes and functions:
 - onmee_SVG_Icons
 - onmee_the_theme_svg()
 - onmee_get_theme_svg()
 - onmee_nav_menu_social_icons()
 
-Code from Twenty Seventeen
+Code from Onmee Seventeen
 Copyright (c) 2016-2020 WordPress.org
 License: GPLv2
-Source: https://wordpress.org/themes/twentyseventeen/
+Source: https://wordpress.org/themes/Onmeeseventeen/
 Included as part of the following classes and functions:
 - onmee_unique_id()
 

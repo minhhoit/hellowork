@@ -4,7 +4,7 @@
  *
  * @package WordPress
  * @subpackage Onmee
- * @since Twenty Twenty 1.0
+ * @since Onmee Onmee 1.0
  */
 
 /**
@@ -105,7 +105,7 @@ function onmee_site_description( $echo = true ) {
 	/**
 	 * Filters the HTML for the site description.
 	 *
-	 * @since Twenty Twenty 1.0
+	 * @since Onmee Onmee 1.0
 	 *
 	 * @param string $html         The HTML to display.
 	 * @param string $description  Site description via `bloginfo()`.
@@ -239,7 +239,7 @@ function onmee_get_post_meta( $post_id = null, $location = 'single-top' ) {
 	 * This filter can be used to hide post meta information of post, page or custom post type
 	 * registered by child themes or plugins.
 	 *
-	 * @since Twenty Twenty 1.0
+	 * @since Onmee Onmee 1.0
 	 *
 	 * @param array Array of post types
 	 */
@@ -260,7 +260,7 @@ function onmee_get_post_meta( $post_id = null, $location = 'single-top' ) {
 		 *
 		 * Use this filter to hide post meta information like Author, Post date, Comments, Is sticky status.
 		 *
-		 * @since Twenty Twenty 1.0
+		 * @since Onmee Onmee 1.0
 		 *
 		 * @param array $args {
 		 *  @type string 'author'
@@ -288,7 +288,7 @@ function onmee_get_post_meta( $post_id = null, $location = 'single-top' ) {
 		 *
 		 * Use this filter to hide post tags.
 		 *
-		 * @since Twenty Twenty 1.0
+		 * @since Onmee Onmee 1.0
 		 *
 		 * @param array $args {
 		 *   @type string 'tags'
@@ -330,8 +330,8 @@ function onmee_get_post_meta( $post_id = null, $location = 'single-top' ) {
 				 *
 				 * Allow output of additional post meta info to be added by child themes and plugins.
 				 *
-				 * @since Twenty Twenty 1.0
-				 * @since Twenty Twenty 1.1 Added the `$post_meta` and `$location` parameters.
+				 * @since Onmee Onmee 1.0
+				 * @since Onmee Onmee 1.1 Added the `$post_meta` and `$location` parameters.
 				 *
 				 * @param int    $post_id   Post ID.
 				 * @param array  $post_meta An array of post meta information.
@@ -457,8 +457,8 @@ function onmee_get_post_meta( $post_id = null, $location = 'single-top' ) {
 				 *
 				 * Allow output of additional post meta info to be added by child themes and plugins.
 				 *
-				 * @since Twenty Twenty 1.0
-				 * @since Twenty Twenty 1.1 Added the `$post_meta` and `$location` parameters.
+				 * @since Onmee Onmee 1.0
+				 * @since Onmee Onmee 1.1 Added the `$post_meta` and `$location` parameters.
 				 *
 				 * @param int    $post_id   Post ID.
 				 * @param array  $post_meta An array of post meta information.
@@ -762,7 +762,7 @@ function onmee_toggle_duration() {
 	/**
 	 * Filters the animation duration/speed used usually for submenu toggles.
 	 *
-	 * @since Twenty Twenty 1.0
+	 * @since Onmee Onmee 1.0
 	 *
 	 * @param int $duration Duration in milliseconds.
 	 */

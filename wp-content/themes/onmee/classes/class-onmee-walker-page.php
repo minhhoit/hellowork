@@ -4,7 +4,7 @@
  *
  * @package WordPress
  * @subpackage Onmee
- * @since Twenty Twenty 1.0
+ * @since Onmee Onmee 1.0
  */
 
 if ( ! class_exists( 'onmee_Walker_Page' ) ) {

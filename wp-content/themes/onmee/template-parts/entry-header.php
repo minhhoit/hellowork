@@ -4,7 +4,7 @@
  *
  * @package WordPress
  * @subpackage Onmee
- * @since Twenty Twenty 1.0
+ * @since Onmee Onmee 1.0
  */
 
 $entry_header_classes = '';
@@ -23,7 +23,7 @@ if ( is_singular() ) {
 		/**
 		 * Allow child themes and plugins to filter the display of the categories in the entry header.
 		 *
-		 * @since Twenty Twenty 1.0
+		 * @since Onmee Onmee 1.0
 		 *
 		 * @param bool   Whether to show the categories in header, Default true.
 		 */

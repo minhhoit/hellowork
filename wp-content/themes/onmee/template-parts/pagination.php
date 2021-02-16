@@ -1,12 +1,12 @@
 <?php
 /**
- * A template partial to output pagination for the Twenty Twenty default theme.
+ * A template partial to output pagination for the Onmee Onmee default theme.
  *
  * @link https://developer.wordpress.org/themes/basics/template-files/#template-partials
  *
  * @package WordPress
  * @subpackage Onmee
- * @since Twenty Twenty 1.0
+ * @since Onmee Onmee 1.0
  */
 
 /**

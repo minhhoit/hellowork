@@ -1,10 +1,10 @@
 <?php
 /**
- * Twenty Twenty Custom CSS
+ * Onmee Onmee Custom CSS
  *
  * @package WordPress
  * @subpackage Onmee
- * @since Twenty Twenty 1.0
+ * @since Onmee Onmee 1.0
  */
 
 if ( ! function_exists( 'onmee_generate_css' ) ) {
