@@ -8,7 +8,7 @@
  *
  * @package WordPress
  * @subpackage Onmee
- * @since Onmee Onmee 1.0
+ * @since Onmee Onmee 1.2
  */
 
 ?>
@@ -92,3 +92,4 @@
 	?>
 
 </article><!-- .post -->
+ 
