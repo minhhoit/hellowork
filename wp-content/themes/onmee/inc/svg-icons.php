@@ -3,7 +3,7 @@
  * Twenty Twenty SVG Icon helper functions
  *
  * @package WordPress
- * @subpackage Twenty_Twenty
+ * @subpackage Onmee
  * @since Twenty Twenty 1.0
  */
 
