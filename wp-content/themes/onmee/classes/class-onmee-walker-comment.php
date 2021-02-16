@@ -4,13 +4,13 @@
  *
  * @package WordPress
  * @subpackage Onmee
- * @since Twenty Twenty 1.0
+ * @since Onmee Onmee 1.0
  */
 
 if ( ! class_exists( 'onmee_Walker_Comment' ) ) {
 	/**
 	 * CUSTOM COMMENT WALKER
-	 * A custom walker for comments, based on the walker in Twenty Nineteen.
+	 * A custom walker for comments, based on the walker in Onmee Nineteen.
 	 */
 	class onmee_Walker_Comment extends Walker_Comment {
 

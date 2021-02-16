@@ -1,12 +1,12 @@
 <?php
 /**
- * Twenty Twenty Starter Content
+ * Onmee Onmee Starter Content
  *
  * @link https://make.wordpress.org/core/2016/11/30/starter-content-for-themes-in-4-7/
  *
  * @package WordPress
  * @subpackage Onmee
- * @since Twenty Twenty 1.0
+ * @since Onmee Onmee 1.0
  */
 
 /**
@@ -14,7 +14,7 @@
  *
  * Passes it through the `onmee_starter_content` filter before returning.
  *
- * @since Twenty Twenty 1.0
+ * @since Onmee Onmee 1.0
  *
  * @return array A filtered array of args for the starter_content.
  */
@@ -207,9 +207,9 @@ function onmee_get_starter_content() {
 	);
 
 	/**
-	 * Filters Twenty Twenty array of starter content.
+	 * Filters Onmee Onmee array of starter content.
 	 *
-	 * @since Twenty Twenty 1.0
+	 * @since Onmee Onmee 1.0
 	 *
 	 * @param array $starter_content Array of starter content.
 	 */

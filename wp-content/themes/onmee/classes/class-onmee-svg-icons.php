@@ -4,13 +4,13 @@
  *
  * @package WordPress
  * @subpackage Onmee
- * @since Twenty Twenty 1.0
+ * @since Onmee Onmee 1.0
  */
 
 if ( ! class_exists( 'onmee_SVG_Icons' ) ) {
 	/**
 	 * SVG ICONS CLASS
-	 * Retrieve the SVG code for the specified icon. Based on a solution in Twenty Nineteen.
+	 * Retrieve the SVG code for the specified icon. Based on a solution in Onmee Nineteen.
 	 */
 	class onmee_SVG_Icons {
 		/**
@@ -31,12 +31,12 @@ if ( ! class_exists( 'onmee_SVG_Icons' ) ) {
 			}
 
 			/**
-			 * Filters Twenty Twenty's array of icons.
+			 * Filters Onmee Onmee's array of icons.
 			 *
 			 * The dynamic portion of the hook name, `$group`, refers to
 			 * the name of the group of icons, either "ui" or "social".
 			 *
-			 * @since Twenty Twenty 1.5
+			 * @since Onmee Onmee 1.5
 			 *
 			 * @param array $arr Array of icons.
 			 */
@@ -45,7 +45,7 @@ if ( ! class_exists( 'onmee_SVG_Icons' ) ) {
 			/**
 			 * Filters an SVG icon's color.
 			 *
-			 * @since Twenty Twenty 1.5
+			 * @since Onmee Onmee 1.5
 			 *
 			 * @param string $color The icon color.
 			 * @param string $icon  The icon name.
@@ -77,21 +77,21 @@ if ( ! class_exists( 'onmee_SVG_Icons' ) ) {
 				$regex_map = array();
 
 				/**
-				 * Filters Twenty Twenty's array of domain mappings for social icons.
+				 * Filters Onmee Onmee's array of domain mappings for social icons.
 				 *
 				 * By default, each Icon ID is matched against a .com TLD. To override this behavior,
 				 * specify all the domains it covers (including the .com TLD too, if applicable).
 				 *
-				 * @since Twenty Twenty 1.5
+				 * @since Onmee Onmee 1.5
 				 *
 				 * @param array $social_icons_map Array of default social icons.
 				 */
 				$map = apply_filters( 'onmee_social_icons_map', self::$social_icons_map );
 
 				/**
-				 * Filters Twenty Twenty's array of social icons.
+				 * Filters Onmee Onmee's array of social icons.
 				 *
-				 * @since Twenty Twenty 1.5
+				 * @since Onmee Onmee 1.5
 				 *
 				 * @param array $social_icons Array of default social icons.
 				 */

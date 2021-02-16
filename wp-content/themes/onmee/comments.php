@@ -1,11 +1,11 @@
 <?php
 /**
  * The template file for displaying the comments and comment form for the
- * Twenty Twenty theme.
+ * Onmee Onmee theme.
  *
  * @package WordPress
  * @subpackage Onmee
- * @since Twenty Twenty 1.0
+ * @since Onmee Onmee 1.0
  */
 
 /*

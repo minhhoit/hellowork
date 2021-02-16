@@ -7,7 +7,7 @@
  *
  * @package WordPress
  * @subpackage Onmee
- * @since Twenty Twenty 1.5
+ * @since Onmee Onmee 1.5
  */
 
 /**
@@ -17,7 +17,7 @@ if ( function_exists( 'register_block_pattern_category' ) ) {
 
 	register_block_pattern_category(
 		'onmee',
-		array( 'label' => esc_html__( 'Twenty Twenty', 'onmee' ) )
+		array( 'label' => esc_html__( 'Onmee Onmee', 'onmee' ) )
 	);
 }
 

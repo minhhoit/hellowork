@@ -1,10 +1,10 @@
 <?php
 /**
- * Twenty Twenty SVG Icon helper functions
+ * Onmee Onmee SVG Icon helper functions
  *
  * @package WordPress
  * @subpackage Onmee
- * @since Twenty Twenty 1.0
+ * @since Onmee Onmee 1.0
  */
 
 if ( ! function_exists( 'onmee_the_theme_svg' ) ) {

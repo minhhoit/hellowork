@@ -6,7 +6,7 @@
  *
  * @package WordPress
  * @subpackage Onmee
- * @since Twenty Twenty 1.0
+ * @since Onmee Onmee 1.0
  */
 
 /**
@@ -112,7 +112,7 @@ function onmee_theme_support() {
 	/*
 	 * Make theme available for translation.
 	 * Translations can be filed in the /languages/ directory.
-	 * If you're building a theme based on Twenty Twenty, use a find and replace
+	 * If you're building a theme based on Onmee Onmee, use a find and replace
 	 * to change 'onmee' to the name of your theme in all the template files.
 	 */
 	load_theme_textdomain( 'onmee' );
@@ -239,7 +239,7 @@ add_action( 'wp_print_footer_scripts', 'onmee_skip_link_focus_fix' );
 
 /** Enqueue non-latin language styles
  *
- * @since Twenty Twenty 1.0
+ * @since Onmee Onmee 1.0
  *
  * @return void
  */
@@ -581,7 +581,7 @@ add_filter( 'the_content_more_link', 'onmee_read_more_tag' );
 /**
  * Enqueues scripts for customizer controls & settings.
  *
- * @since Twenty Twenty 1.0
+ * @since Onmee Onmee 1.0
  *
  * @return void
  */
@@ -604,7 +604,7 @@ add_action( 'customize_controls_enqueue_scripts', 'onmee_customize_controls_enqu
 /**
  * Enqueue scripts for the customizer preview.
  *
- * @since Twenty Twenty 1.0
+ * @since Onmee Onmee 1.0
  *
  * @return void
  */
@@ -630,7 +630,7 @@ add_action( 'customize_preview_init', 'onmee_customize_preview_init' );
 /**
  * Get accessible color for an area.
  *
- * @since Twenty Twenty 1.0
+ * @since Onmee Onmee 1.0
  *
  * @param string $area The area we want to get the colors for.
  * @param string $context Can be 'text' or 'accent'.
@@ -669,7 +669,7 @@ function onmee_get_color_for_area( $area = 'content', $context = 'text' ) {
 /**
  * Returns an array of variables for the customizer preview.
  *
- * @since Twenty Twenty 1.0
+ * @since Onmee Onmee 1.0
  *
  * @return array
  */
@@ -688,7 +688,7 @@ function onmee_get_customizer_color_vars() {
 /**
  * Get an array of elements.
  *
- * @since Twenty Twenty 1.0
+ * @since Onmee Onmee 1.0
  *
  * @return array
  */
@@ -750,9 +750,9 @@ function onmee_get_elements_array() {
 	);
 
 	/**
-	* Filters Twenty Twenty theme elements
+	* Filters Onmee Onmee theme elements
 	*
-	* @since Twenty Twenty 1.0
+	* @since Onmee Onmee 1.0
 	*
 	* @param array Array of elements
 	*/
