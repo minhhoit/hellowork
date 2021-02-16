@@ -3,7 +3,7 @@
  * Displays the content when the cover template is used.
  *
  * @package WordPress
- * @subpackage Twenty_Twenty
+ * @subpackage Onmee
  * @since Twenty Twenty 1.0
  */
 

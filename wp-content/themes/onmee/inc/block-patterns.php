@@ -6,7 +6,7 @@
  * @link https://developer.wordpress.org/reference/functions/register_block_pattern_category/
  *
  * @package WordPress
- * @subpackage Twenty_Twenty
+ * @subpackage Onmee
  * @since Twenty Twenty 1.5
  */
 

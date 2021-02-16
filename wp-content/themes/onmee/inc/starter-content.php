@@ -5,7 +5,7 @@
  * @link https://make.wordpress.org/core/2016/11/30/starter-content-for-themes-in-4-7/
  *
  * @package WordPress
- * @subpackage Twenty_Twenty
+ * @subpackage Onmee
  * @since Twenty Twenty 1.0
  */
 

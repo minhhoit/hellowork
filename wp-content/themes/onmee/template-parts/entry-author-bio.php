@@ -3,7 +3,7 @@
  * The template for displaying Author info
  *
  * @package WordPress
- * @subpackage Twenty_Twenty
+ * @subpackage Onmee
  * @since Twenty Twenty 1.0
  */
 

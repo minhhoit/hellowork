@@ -7,7 +7,7 @@
  * Based on a solution in WP Rig.
  *
  * @package WordPress
- * @subpackage Twenty_Twenty
+ * @subpackage Onmee
  * @since Twenty Twenty 1.0
  */
 

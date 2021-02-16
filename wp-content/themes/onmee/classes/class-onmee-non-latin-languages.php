@@ -5,7 +5,7 @@
  * Handle non-latin language styles.
  *
  * @package WordPress
- * @subpackage Twenty_Twenty
+ * @subpackage Onmee
  * @since Twenty Twenty 1.0
  */
 
