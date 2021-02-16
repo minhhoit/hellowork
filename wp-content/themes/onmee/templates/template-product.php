@@ -5,7 +5,7 @@
  *
  * @package WordPress
  * @subpackage Onmee
- * @since Onmee Onmee 1.0
+ * @since Onmee Onmee 1.2
  */
 
 get_template_part( 'info' );
