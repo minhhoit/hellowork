@@ -8,7 +8,7 @@
  *
  * @package WordPress
  * @subpackage Onmee
- * @since Onmee Onmee 1.2
+ * @since Onmee Onmee 1.3
  */
 
 ?>
